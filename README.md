@@ -180,15 +180,11 @@ ___
 
 ___
 
+___
+
 ![image](https://user-images.githubusercontent.com/53325143/93303237-15053d80-f7f3-11ea-9613-26290e754538.png)
 
 All the payments can then be seen on Stripe’s dashboard, moreover, it also shows whether each order payment was successful or unsuccessful as shown above on the images. 
-
-
-
-
-
-___
 
 
 
